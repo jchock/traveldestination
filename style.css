@@ -1,0 +1,43 @@
+body {
+  background-image: url(mtfuji.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+.black-box {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 325px;
+  height: 325px;
+  background-color: black;
+}
+
+.flag {
+  margin-top: 40px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.black-box h2 {
+  font-family: 'Tangerine', sans-serif;
+  color: white;
+  font-size: 250%;
+  padding-top: 30px;
+}
+
+.black-box a {
+  font-family: 'Tangerine', sans-serif;
+  margin: auto;
+}
+
+.black-box p {
+  color: white;
+  font-family: 'Tangerine', sans-serif;
+  font-size: 150%;
+}
+
+form {
+  margin-top: 10px;
+}
